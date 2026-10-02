@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('../Imagem/palmeirasfundo.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    margin: 0;
+    padding: 20px 15px;
+}
+main {
+    background-image: url('../Imagem/fundopalmeirassimples.jpg');
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 30px 40px;
+    border-radius: 16px;
+    border: 1px solid rgba(255, 255, 255, 0.1)
+}
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 150px;
+    height: auto;
+}
+h1 {
+    text-align: center;
+    color: #00A859;
+    font-size: 50px;
+}
+h2 {
+    text-align: center;
+    color: #00A859;
+    border-bottom: 2px solid #00A859;
+}
+h3 {
+    text-align: left;
+    color: #ffd54f;
+}
+p {
+    font-size: 16px;
+    text-align: justify;
+    color: white;
+}
